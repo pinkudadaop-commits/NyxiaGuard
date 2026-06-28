@@ -11,7 +11,7 @@ module.exports = (client) => {
       status: "dnd",
       activities: [
         {
-          name: `@AeroX Security help || shard ${shardId}`,
+          name: `NyxiaSecurity On Duty || shard ${shardId}`,
           type: ActivityType.Playing,
         },
       ],
