@@ -1,7 +1,7 @@
 {
     "token": "token here",
 
-    "prefix": ";",
+    "prefix": "?",
 
     "MONGO": "mongodb here",
 
